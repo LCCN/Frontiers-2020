@@ -1,4 +1,6 @@
- **A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.**
+![TMT logo](https://github.com/LCCN/Frontiers2020/edit/master/logo.png?raw=true "FNS logo") nMNSD
+=====
+**A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.**
 
 This Matlab App allows the user to load 
 1) nMNSD structure
