@@ -1,11 +1,6 @@
 ![LOGO](https://github.com/LCCN/Frontiers2020/blob/master/LOGO.png?raw=true "LOGO") nMNSD
 =====
 
-![FNS logo](https://github.com/fnsneuralsimulator/fns-documentation_and_utilities/blob/master/FNSlogo.png?raw=true "FNS logo") FNS neural simulator
-=====
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
 **A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.**
 
 This Matlab App allows the user to load 
