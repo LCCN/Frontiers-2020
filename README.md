@@ -1,4 +1,4 @@
-![LOGO](https://github.com/LCCN/Frontiers2020/blob/master/LOGO.png?raw=true "LOGO") nMNSD
+![LOGO](https://github.com/LCCN/Frontiers2020/blob/master/LOGO.png?raw=true "LOGO")  nMNSD trapezoid tool
 =====
 
 **A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.**
