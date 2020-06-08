@@ -2,7 +2,8 @@
 
 This Matlab App allows the user to load 
 1) nMNSD structure
-2) set of parallel inputs.
-The program will show the "crossing steps" of the input spikes on the trapezoids, that is a simplified 
+2) a set of parallel inputs, to visualize the related "trapezoids".
+
+Using an example dataset, the program will show the "crossing steps" of the input spikes on the trapezoids, that is a simplified 
 animation of the target summation. A useful tool for the tuning and the understanding of the internal 
 operation of the structure.
