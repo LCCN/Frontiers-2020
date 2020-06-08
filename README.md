@@ -1,4 +1,4 @@
-A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.
+ **A visualization tool for the nMNSD structure: decomposition using the the trapezoid method.**
 
 This Matlab App allows the user to load 
 1) nMNSD structure
