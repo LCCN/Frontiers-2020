@@ -14,8 +14,8 @@ operation of the structure.
 <br /><br />
 
 GUIDE:<br />
-1 - Launch nMNSD.mlapp (Matlab 2019b)<br />
-2.  Import "nMNSD_parameters.mat" using the proper button<br />
-3.  Load "NoGo_trial.mat" using the proper button, and then compare it with "Go_trial.mat".<br />
+1) Launch nMNSD.mlapp (Matlab 2019b)<br />
+2)  Import "nMNSD_parameters.mat" using the proper button<br />
+3)  Load "NoGo_trial.mat" using the proper button, and then compare it with "Go_trial.mat".<br />
 <br /><br />
 Don't hesitate to contact us for further information: gianluca.susi@ctb.upm.es
